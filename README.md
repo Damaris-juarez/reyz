@@ -1,2 +1,0 @@
-# reyz
-practica 1
